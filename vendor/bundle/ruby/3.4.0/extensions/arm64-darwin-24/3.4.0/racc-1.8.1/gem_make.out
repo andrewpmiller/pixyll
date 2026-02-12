@@ -1,0 +1,18 @@
+current directory: /Users/andrewmiller/Documents/Projects/pixyll/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/andrewmiller/.rbenv/versions/3.4.8/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/andrewmiller/Documents/Projects/pixyll/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260212-41589-vdbzea sitelibdir\=./.gem.20260212-41589-vdbzea clean
+
+current directory: /Users/andrewmiller/Documents/Projects/pixyll/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260212-41589-vdbzea sitelibdir\=./.gem.20260212-41589-vdbzea
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/andrewmiller/Documents/Projects/pixyll/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260212-41589-vdbzea sitelibdir\=./.gem.20260212-41589-vdbzea install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20260212-41589-vdbzea/racc
+
+current directory: /Users/andrewmiller/Documents/Projects/pixyll/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260212-41589-vdbzea sitelibdir\=./.gem.20260212-41589-vdbzea clean
