@@ -3,7 +3,7 @@ name: Build
 on:
   push:
     branches:
-      - main
+      - presequences
   pull_request:
     branches:
       - main
