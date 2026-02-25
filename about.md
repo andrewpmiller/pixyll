@@ -1,8 +1,7 @@
 ---
 layout: page
-title: About this...
+title: About this site...
 permalink: /about/
-tags: about
+tags: 
 ---
 
-This is about this.
