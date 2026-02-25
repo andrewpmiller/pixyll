@@ -14,7 +14,7 @@ header_pages:
 google_analytics: G-JRN03TYB0K
 
 # Optional features
-animated:             false
+
 show_related_posts:   true
 show_post_footers:    false
 show_social_icons:    false
