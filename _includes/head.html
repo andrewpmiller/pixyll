@@ -39,13 +39,6 @@
     </script>
     {% endif %}
 
-    <!-- Verifications -->
-    {% if site.google_verification %}
-      <meta name="google-site-verification" content="{{ site.google_verification }}" />
-    {% endif %}
-    {% if site.bing_verification %}
-      <meta name="msvalidate.01" content="{{ site.bing_verification }}" />
-    {% endif %}
 
     <!-- Open Graph -->
     <!-- From: https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/_includes/head.html -->
@@ -86,7 +79,7 @@
     <link rel="icon" type="image/png" href="{{ "/favicon-96x96.png" | relative_url }}" sizes="96x96" />
     <link rel="icon" type="image/png" href="{{ "/favicon-32x32.png" | relative_url }}" sizes="32x32" />
     <link rel="icon" type="image/png" href="{{ "/favicon-16x16.png" | relative_url }}" sizes="16x16" />
-    <link rel="icon" type="image/png" href="{{ "/favicon-128.png" | relative_url }}" sizes="128x128" />
+    <link rel="icon" type="image/png" href="{{ "/favicon-128x128.png" | relative_url }}" sizes="128x128" />
 
     <meta name="application-name" content="PRESEQUENCES"/>
     <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -96,7 +89,7 @@
     <meta name="msapplication-wide310x150logo" content="{{ "/mstile-310x150.png" | relative_url }}" />
     <meta name="msapplication-square310x310logo" content="{{ "/mstile-310x310.png" | relative_url }}" />
     <meta name="msapplication-notification" content="frequency=30;polling-uri=https://notifications.buildmypinnedsite.com/?feed=https://presequences.com/feed.xml&amp;id=1;polling-uri2=https://notifications.buildmypinnedsite.com/?feed=https://presequences.com/feed.xml&amp;id=2;polling-uri3=https://notifications.buildmypinnedsite.com/?feed=https://presequences.com/feed.xml&amp;id=3;polling-uri4=https://notifications.buildmypinnedsite.com/?feed=https://presequences.com/feed.xml&amp;id=4;polling-uri5=https://notifications.buildmypinnedsite.com/?feed=https://presequences.com/feed.xml&amp;id=5;cycle=1" /> 
-    <link rel="shortcut icon" href="{{ "/favicon.ico" | relative_url }}">
+    <link rel="shortcut icon" href="{{ "/favicon.ico" | relative_url }}" />
 
     {% if site.google_analytics %}
     <!-- Google tag (gtag.js) -->
