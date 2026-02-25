@@ -7,8 +7,7 @@ baseurl:     ""
 url:         "https://presequences.com"
 date_format: "%b %-d, %Y"
 header_pages: 
-  - about.md
-
+show_navigation: false
   
 # Google services
 google_analytics: G-JRN03TYB0K
@@ -39,7 +38,7 @@ text:
 # Build settings
 markdown:     kramdown
 permalink:    pretty
-paginate:     4
+paginate:     12
 sass:
   style: compressed
 plugins:
