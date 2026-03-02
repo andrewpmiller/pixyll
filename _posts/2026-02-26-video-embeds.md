@@ -3,7 +3,7 @@ layout: post
 title: Pixyll Does YouTube
 date: 2026-02-26 04:30
 summary: Pixyll now handles YouTube embeds.
-categories: jekyll pixyll
+tags: jekyll video youtube 
 ---
 
 
