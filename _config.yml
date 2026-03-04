@@ -1,6 +1,6 @@
 # Site settings
 title:       PRESEQUENCES
-email:       andrew@miller-co.com
+email:       
 author:      Andrew Miller
 description: "Things I think about: design, photography, sound, and technology."
 baseurl:     ""
@@ -10,7 +10,7 @@ header_pages:
 show_navigation: false
   
 # Google services
-# google_analytics: G-JRN03TYB0K
+# google_analytics: 
 
 # Optional features
 
